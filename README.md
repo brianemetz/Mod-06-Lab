@@ -10,6 +10,6 @@ Over the decade or so in between data sets, multiple mountains have been removed
 ![Layout](Layout.jpg)     
 *Here is the map*
 
-![Link to high-resolution version](MTR.pdf)     
+[Link to high-resolution version](MTR.pdf)     
 
 Data was gathered from USGS and KY digital elevation data. 
